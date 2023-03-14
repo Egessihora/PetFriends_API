@@ -1,0 +1,1 @@
+# QAP_HW_19.7.2_API_PetFriends_tests
